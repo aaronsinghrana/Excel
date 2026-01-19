@@ -25,7 +25,8 @@ These were used to calculate totals, averages, time-based trends and to group pr
 
 Filtering and sorting were applied to explore sales data by county, product and category. A PivotTable was created to summarise **sales volume by county and product**, enabling quick comparison across regions.
 
-![PivotTable showing sales volume by county and product](attachment:7577a65d-117d-4959-800c-cee8e3d5f069.png)
+<img width="798" height="274" alt="PivotTable showing sales volume by county and product" src="https://github.com/user-attachments/assets/840582a1-c1d8-447f-80d6-3ed3962eed05" />
+
 
 **Key insights from the PivotTable include:**
 
@@ -39,7 +40,8 @@ Filtering and sorting were applied to explore sales data by county, product and 
 
 Charts were created to clearly communicate trends and insights to non-technical audiences. The pie chart below compares **revenue by age group**, highlighting customer demographics.
 
-![Revenue comparison by age group pie chart](attachment\:bbdd64d8-d5e6-4451-9b40-5a268b6d8681.png)
+<img width="691" height="416" alt="Revenue comparison by age group pie chart" src="https://github.com/user-attachments/assets/4bb810fa-bb1b-43e9-b6e7-a8de4c5175e9" />
+
 
 **Insights from the chart:**
 
